@@ -28,12 +28,3 @@ To test, use the following command on the command line. With a single GPU, it ta
 ```
 python3 aslcitizen_testing.py
 ```
-The results can be found in .txt and .csv files generated in the same folder. 
-
-~~To run the subset experiments on the trained model weights, open subset.py. Update the file paths to dataset and datacsvs as needed (lines 54-56). Update names for output files as needed (lines 57-58). Update path to model weights (line 79).~~
-
-~~To test subset, use the following command on the command line:~~
-```
-~~python3 subset.py~~
-```
-
