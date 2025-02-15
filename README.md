@@ -1,5 +1,3 @@
-# Sign-Lang-recognition
-Developed a high-accuracy AI model to translate sign language into text using deep learning and computer vision techniques.
 This folder contains files for the training and testing the I3D model on the ASL Citizen Dataset.  
 
 ### File description:
